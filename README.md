@@ -1,14 +1,14 @@
 # 🛒 Customer Shopping Behaviour Analysis Project Using Python SQL and Power BI 👩🏻‍💻
-
+# Dashboard in Power BI
 <img width="1343" height="725" alt="image" src="https://github.com/user-attachments/assets/f732cedd-b251-41f8-922b-4b860f826c09" />
 
 
-📌 Overview
+# 📌 Overview
 
 This project demonstrates an end-to-end data analytics workflow to analyze customer shopping behavior using real-world transactional data.
 It covers data cleaning and EDA in Python, business analysis in MySQL, and visualization in Power BI — showcasing how raw data can be turned into meaningful business insights.
 
-⚙️ Tools & Technologies
+# ⚙️ Tools & Technologies
 
 Python – Data Cleaning & EDA (pandas, numpy, matplotlib, seaborn)
 
@@ -16,7 +16,7 @@ MySQL – Business queries and insight generation
 
 Power BI – Interactive dashboard creation
 
-🧩 Project Steps
+# 🧩 Project Steps
 
 Data Preparation (Python)
 
@@ -34,7 +34,7 @@ Visualization (Power BI)
 
 Built a dashboard highlighting key insights such as top products, spending trends, and customer loyalty patterns
 
-📊 Key Insights
+# 📊 Key Insights
 
 Female customers generated slightly higher total revenue.
 
@@ -44,6 +44,6 @@ Loyal and subscribed customers contribute the most to consistent revenue.
 
 Express shipping users often have higher average order values.
 
-💡 Tech Stack
+# 💡 Tech Stack
 
 Python | MySQL | Power BI
