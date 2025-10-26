@@ -1,5 +1,8 @@
 # 🛒 Customer Shopping Behaviour Analysis Project Using Python SQL and Power BI 👩🏻‍💻
 
+<img width="1343" height="725" alt="image" src="https://github.com/user-attachments/assets/f732cedd-b251-41f8-922b-4b860f826c09" />
+
+
 📌 Overview
 
 This project demonstrates an end-to-end data analytics workflow to analyze customer shopping behavior using real-world transactional data.
